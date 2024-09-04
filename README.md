@@ -54,4 +54,4 @@ This project focuses on building a machine learning model to classify whether a 
     
     Pickle: The trained Logistic Regression model is saved using Pickle, allowing it to be loaded into the Streamlit application for real-time predictions.
     
-
+P.S.: If you find this helpful, kindly consider giving it a star rating. Thank you!
