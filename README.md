@@ -51,6 +51,8 @@ This project focuses on building a machine learning model to classify whether a 
     Streamlit: Used to create an interactive web application where users can input their medical data and get predictions on whether they might have breast cancer.
     
     HTML & Bootstrap: The web interface is designed using HTML for structure and Bootstrap for styling, making the application visually appealing and responsive.
+
+    Flask : Run the model using flask framework.
     
     Pickle: The trained Logistic Regression model is saved using Pickle, allowing it to be loaded into the Streamlit application for real-time predictions.
     
