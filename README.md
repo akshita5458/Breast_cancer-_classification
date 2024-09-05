@@ -1,6 +1,8 @@
 ## Breast_Cancer_Classification ##
 This project focuses on building a machine learning model to classify whether a person is cancerous (malignant) or not (benign) based on their medical data. The classification is performed using a Logistic Regression model, and the entire process includes data preprocessing, model training, evaluation, and deployment through a web interface built with Streamlit. Additionally, the web application includes an HTML interface styled with Bootstrap to ensure a responsive and user-friendly experience.
 
+[LINKEDIN POST](https://www.linkedin.com/posts/akshita-s-13b239251_breastcancerclassification-python-machinelearning-activity-7237253350780481537-AVmv?utm_source=share&utm_medium=member_desktop)
+
 
 ![Screenshot 2024-09-04 193900](https://github.com/user-attachments/assets/a4601314-0fd4-47e1-a395-7103d8d16bbc)
 ![image](https://github.com/user-attachments/assets/ae45a00f-b8a3-4dc7-98ce-98922796054c)
